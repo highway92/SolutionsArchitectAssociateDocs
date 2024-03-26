@@ -8,4 +8,4 @@
   - [Amazon EC2 모니터링](https://highway92.tistory.com/12)  
   - [Auto Scaling](https://highway92.tistory.com/14)   
   - [Amazon EC2(Elastic Computh Cloud)의 보안](https://highway92.tistory.com/13)  
-  - [AWS EC2 FAQ](https://highway92.tistory.com/13](https://aws.amazon.com/ko/ec2/faqs/)https://aws.amazon.com/ko/ec2/faqs)  
+  - [AWS EC2 FAQ](https://aws.amazon.com/ko/ec2/faqs/)
