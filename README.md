@@ -12,4 +12,4 @@
 
 - [VPC](https://highway92.tistory.com/15)
   - [VPC Peering와 EndPoint](https://highway92.tistory.com/16)
-  - [ELB(Elastic Load Balancer)](https://highway92.tistory.com/17)
+- [ELB(Elastic Load Balancer)](https://highway92.tistory.com/17)
