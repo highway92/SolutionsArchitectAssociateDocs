@@ -1,6 +1,7 @@
 # SolutionsArchitectAssociateDocs
 ## AWS Solutions Architect Associate 시험에 필요한 주요 개념들 정리
 [AWS 공인 개발자 - 어소시에이트 수험 가이드](https://gist.github.com/serithemage/df61aaf396046eff7244b6eaa8d58d4a)를 참고하여 만들었습니다.
+각 서비스에 대해서 아주 자세하게 다루지는 않습니다. 각 서비스의 사용사례나, 개괄적인 특징들을 다룹니다.
 
 ### 시험에서 주로 언급되는 서비스에 대한 개념 정리
 - [EC2](https://highway92.tistory.com/10)  
